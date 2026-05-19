@@ -1,0 +1,2 @@
+Abonado [tipo=mensual, nombre=da, edad=34, correo=da@da.com, billete=49.162499999999994]
+Abonado [tipo=mensual, nombre=jose, edad=45, correo=jose@jose.com, billete=49.162499999999994]

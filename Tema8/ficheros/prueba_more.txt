@@ -1,0 +1,52 @@
+1.- Realizar un programa que solicite al usuario el nombre de un fichero de texto y muestre su contenido en pantalla. Si no se proporciona ningún nombre de fichero, la aplicación utilizará por defecto "prueba.txt".
+
+2.- Diseñar una aplicación que pida al usuario su nombre y edad. Estos datos deben guardarse en el fichero "datos.txt". Si este fichero existe, debe borrarse su contenido, y en caso de no existir, debe crearse.
+
+3.- Crear un programa que duplique el contenido de un fichero. Realizar dos versiones:
+a) Duplicaremos el fichero original.txt en uno que se llame copia.txt.
+b) Pedir el nombre del fichero fuente y duplicarlo en un fichero con el mismo nombre con el prefijo «copia_de_».
+
+4.- Realizar un programa que lea un fichero de texto llamado carta. txt, tenemos que contar los caracteres, las líneas y las palabras. Para facilitar el procesamiento supondremos que cada palabra está separada de otra por un único espacio en blanco.
+
+5.- En el archivo numeros.txt disponemos de una serie de números (uno por línea). Diseñar un programa que procese el fichero y nos muestre el menor y el mayor.
+
+6.- Un libro de firmas es útil para recoger todas las personas que han pasado por un determinado lugar. Crear una aplicación que permita mostrar el libro de firmas o insertar un nuevo nombre (comprobando que no se encuentre repetido). Llamaremos al fichero firmas.txt.
+
+7.- En Linux disponemos del comando "more", al que se le pasa un fichero y lo muestra poco a poco: cada 24 líneas. Implementar un programa que funcione de forma similar.
+
+8.- Disponemos de dos ficheros, persol.txt y perso2.txt con nombres de personas (ambos ordenados). Realizar un programa que lea ambos ficheros y que cree un tercer fichero (todos.txt) con todos los nombres ordenados alfabéticamente.
+
+9.- Un encriptador es una aplicación que transforma un texto haciendo ilegible para aquellos que desconocen el código. Diseñar un programa que lea un fichero de texto, lo codifique y cree un nuevo archivo con el mensaje cifrado. El alfabeto de codificación se encontrará en el fichero codec.TXT. Un ejemplo de alfabeto de codificación es:
+Alfabeto   a   b   c   d   e   f   g   h   i   j   k   l   m   n   o   p   q   r   s   t   u   v   w   x   y   z
+Cifrado       e   m   s   r   c   y   j   n   f   x   i   w   t   a   k   o   z   d   l   q   v   b   h   u   p   g
+
+10.- Utilizando el fichero codec.txt del ejercicio anterior, diseñar un decodificador.
+
+
+1.- Realizar un programa que solicite al usuario el nombre de un fichero de texto y muestre su contenido en pantalla. Si no se proporciona ningún nombre de fichero, la aplicación utilizará por defecto "prueba.txt".
+
+2.- Diseñar una aplicación que pida al usuario su nombre y edad. Estos datos deben guardarse en el fichero "datos.txt". Si este fichero existe, debe borrarse su contenido, y en caso de no existir, debe crearse.
+
+3.- Crear un programa que duplique el contenido de un fichero. Realizar dos versiones:
+a) Duplicaremos el fichero original.txt en uno que se llame copia.txt.
+b) Pedir el nombre del fichero fuente y duplicarlo en un fichero con el mismo nombre con el prefijo «copia_de_».
+
+4.- Realizar un programa que lea un fichero de texto llamado carta. txt, tenemos que contar los caracteres, las líneas y las palabras. Para facilitar el procesamiento supondremos que cada palabra está separada de otra por un único espacio en blanco.
+
+5.- En el archivo numeros.txt disponemos de una serie de números (uno por línea). Diseñar un programa que procese el fichero y nos muestre el menor y el mayor.
+
+6.- Un libro de firmas es útil para recoger todas las personas que han pasado por un determinado lugar. Crear una aplicación que permita mostrar el libro de firmas o insertar un nuevo nombre (comprobando que no se encuentre repetido). Llamaremos al fichero firmas.txt.
+
+7.- En Linux disponemos del comando "more", al que se le pasa un fichero y lo muestra poco a poco: cada 24 líneas. Implementar un programa que funcione de forma similar.
+
+8.- Disponemos de dos ficheros, persol.txt y perso2.txt con nombres de personas (ambos ordenados). Realizar un programa que lea ambos ficheros y que cree un tercer fichero (todos.txt) con todos los nombres ordenados alfabéticamente.
+
+9.- Un encriptador es una aplicación que transforma un texto haciendo ilegible para aquellos que desconocen el código. Diseñar un programa que lea un fichero de texto, lo codifique y cree un nuevo archivo con el mensaje cifrado. El alfabeto de codificación se encontrará en el fichero codec.TXT. Un ejemplo de alfabeto de codificación es:
+Alfabeto   a   b   c   d   e   f   g   h   i   j   k   l   m   n   o   p   q   r   s   t   u   v   w   x   y   z
+Cifrado       e   m   s   r   c   y   j   n   f   x   i   w   t   a   k   o   z   d   l   q   v   b   h   u   p   g
+
+10.- Utilizando el fichero codec.txt del ejercicio anterior, diseñar un decodificador.
+
+11.- El fichero matriz.txt, contiene los datos de una matriz cuadrada. Leer dicha matriz y mostrarla traspuesta en pantalla.
+
+12.- Algunos sistemas operativos disponen del comando comp, que compara dos archivos y nos dice si son iguales o distintos. Diseñar este comando de forma que, además, nos diga en qué línea y carácter se encuentra la primera diferencia. Utilizar los ficheros texto1.txt y texto2.txt.
